@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(42, 157, 165);
+    color: rgb(255, 187, 0);
+    height: 100vh;
+    box-sizing: border-box;
+    display:flex;
+    flex-direction: colun;
+    justify-content: center;
+}
+strong{
+    color:rgb(100, 0, 92);
+
+}
+.imagen1{
+   
+ width: 300px;
+    height:300px;
+}
+.imgen{ 
+    width:300px;
+    height:300px;
+}  
+.contenedor{
+    display:flex;
+    flex-direction: column;
+}
+
+
+.freefire{
+    
+ color:#db5461;   
+}
