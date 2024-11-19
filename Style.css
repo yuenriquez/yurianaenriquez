@@ -3,8 +3,8 @@
     margin: 0;
 }
 body{
-    background-color: rgb(42, 157, 165);
-    color: rgb(255, 187, 0);
+    background-color: rgb(5, 33, 56);
+    color: rgb(136, 13, 185)
     height: 100vh;
     box-sizing: border-box;
     display:flex;
@@ -12,7 +12,7 @@ body{
     justify-content: center;
 }
 strong{
-    color:rgb(100, 0, 92);
+    color:rgb(180, 33, 168);
 
 }
 .imagen1{
@@ -27,10 +27,26 @@ strong{
 .contenedor{
     display:flex;
     flex-direction: column;
-}
+    color: rgb(243, 255, 78);
 
+    
+
+}
+.contenedor2{
+    display:flex;
+    flex-direction: column;
+    color: rgba(252, 249, 239, 0.897);
+}
+}
+.contenedor3{
+    display:flex;
+    flex-direction: column;
+    color: rgba(243, 255, 78);
+}
+.contenedor4{
+    display:flex;
+    flex-direction: column;
+    color: rgba(237, 240, 245, 0.856);
+}
 
 .freefire{
-    
- color:#db5461;   
-}
